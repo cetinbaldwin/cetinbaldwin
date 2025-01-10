@@ -2,7 +2,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-![MasterHead](https://i.gifer.com/8108.gif)
+![MasterHead](https://media1.tenor.com/m/XQMkb6ywgHIAAAAd/jetamysic.gif)
 ![Typing_SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+to+My+Cybersecurity+Journey)
 
 
