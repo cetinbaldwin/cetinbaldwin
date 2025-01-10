@@ -1,3 +1,5 @@
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=hackaday.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" align="right"/></a>
+
 [![MasterHead](https://i.gifer.com/81O8.gif)
 <h1 align="center">Hi 👋, I'm Çetin BİNİCİ</h1>
 <h3 align="center">A passionate security researcher and bug bounty hunter from Turkey.</h3>
