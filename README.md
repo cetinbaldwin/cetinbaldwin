@@ -1,8 +1,11 @@
 <img src="https://komarev.com/ghpvc/?username=cetinbaldwin&&style=plastics&&color=yellow" align="right"/> </p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-[![MasterHead](https://i.gifer.com/81O8.gif)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+Çetin+Binici+Channel;+)
+
+![MasterHead](https://i.gifer.com/8108.gif)
+![Typing_SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+Çetin+Binici+Channel.;)
+
+
 <h1 align="center">Hi 👋, I'm Çetin BİNİCİ</h1>
 <h3 align="center">A passionate security researcher and bug bounty hunter from Turkey.</h3>
 
