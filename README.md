@@ -3,7 +3,7 @@
 
 
 ![MasterHead](https://i.gifer.com/8108.gif)
-![Typing_SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+Çetin+Binici+Channel.;)
+![Typing_SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+to+My+Cybersecurity+Journey.;)
 
 
 <h1 align="center">Hi 👋, I'm Çetin BİNİCİ</h1>
