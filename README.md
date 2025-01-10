@@ -1,6 +1,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=hackaday.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" align="right"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=cetinbaldwin&&style=plastics&&color=yellow" align="right"/> </p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 [![MasterHead](https://i.gifer.com/81O8.gif)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+Çetin+Binici+Channel;+)
@@ -8,7 +9,7 @@
 <h3 align="center">A passionate security researcher and bug bounty hunter from Turkey.</h3>
 
 - 📫 How to reach me **baldwinpentest@gmail.com**
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/çetin-binici-6a2aab319/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="çetin binici" height="30" width="40" /></a>
